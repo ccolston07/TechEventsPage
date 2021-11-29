@@ -1,2 +1,2 @@
 # TechEventsPage
-Project Report Page for TechEvents project
+Project Report Page for TechEvents
