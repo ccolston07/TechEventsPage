@@ -38,7 +38,7 @@ This final stage of development was done concurrently with the Design stage so t
 
 ## Team Contributions
 
-The following list breaksdown each team members contribution area for this project in a rough manner. This list does not fully encapsulate project participation but more so a general list of responsibility areas.
+The following list reviews each team members contribution area for this project in a rough manner. This list does not fully encapsulate project participation but more so a general list of responsibility areas.
 
 1. Frontend Developers:
     - Andy Lee
