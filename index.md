@@ -73,11 +73,11 @@ The system must be a mobile device with a steady internet connection and the abi
 
 #### Architectural (High-level) Design
 
-![Component Diagram](/TechEventsPage/Component_Diagram.png)
+![Sequence Diagram](/TechEventsPage/Sequence_Diagram.png)
 
 #### Low-level Design
 
-![Sequence Diagram](/TechEventsPage/Sequence_Diagram.png)
+![Component Diagram](/TechEventsPage/Component_Diagram.png)
 
 #### User Interface Design
 
@@ -93,15 +93,17 @@ This final stage of development was done concurrently with the Design stage so t
 
 #### Quality Control
 
-{Description}
+We maintained the quality of our testing through a recursive method in which new tests were created with each new feature that was added to the project. These new tests involved either writing new coded tests or manually testing the applicationa and the new feature to search for bugs and ensure intended functionality was met. Testing was performed by all group members at each stage to ensure suitable coverage was maintained. Additionally, the critireion we laid out for testing to be completed involved full functionality of the application and all component features as verified by all group members. We believe this worked well with our selected project lifecylce methodolgy as well due to the fact that the waterfall methodololgy requires the completion of features before moving onto further stages and features. Ensuring each feature worked completely, and then again as a whole product in the end, allowed us to maintain consitent quaility throughout the development process. However, if any bugs were found through this quality control process, the group communication methods were used such that the chat was notified of an issue and a meeting was scheduled if needed to assign responsibility for resolving the bugs.
 
 #### Test Strategy
 
-{Description}
+The main technologies used for testing involved Jest for testing backend code, Postman for testing API calls and endpoints, and Expo (Expo Go) for manual testing of the user interface and UI functionality. Our main testing strategy for this project was to continually test upon the completion of new features and functionalities. However due to the variety of testing that needed to be done there was no laid out plan for how to test an item. Group communication channels were utilized to disucss testing methods for each addition to the project which enabled every group memeber to test the new code in an appropriate manner. Each group memebr was responsible for testing new additions to the project according to the agreed upon testing method to ensure that the highest amount of bugs were captured through our testing strategy. 
 
 #### Test Cases
 
-{List of test cases}
+![Test Cases 1-9](/TechEventsPage/Test_Cases1.png)
+
+![Test Cases 10-17](/TechEventsPage/Test_Cases2.png)
 
 ## Technologies
 
