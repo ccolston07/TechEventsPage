@@ -57,11 +57,11 @@ During this stage of the assignment we began our implementation of our idea and 
 
 #### Architectural (High-level) Design
 
-{Architecture or High-level component Diagram}
+![Component Diagram](/TechEventsPage/Component_Diagram.png)
 
 #### Low-level Design
 
-{Sequence Diagram / Low-level Component Diagram}
+![Sequence Diagram](/TechEventsPage/Sequence_Diagram.png)
 
 #### User Interface Design
 
