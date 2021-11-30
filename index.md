@@ -59,7 +59,7 @@ During this stage of the assignment we began our implementation of our idea and 
 
 {Architecture or High-level component Diagram}
 
-#### Low-level Desing
+#### Low-level Design
 
 {Sequence Diagram / Low-level Component Diagram}
 
