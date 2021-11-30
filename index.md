@@ -73,6 +73,10 @@ During this stage of the assignment we began our implementation of our idea and 
 
 The system must be a mobile device with a steady internet connection and the ability to run React native compiled code. For Android devices, Expo Go allows easy running of the application from a QR Code generated from our local machines.
 
+#### Architectural Design Pattern
+
+For this project, we chose to use a Client-Server architecture as abstracting the access to the mongo DB through a backend would make work division easier, code management simpler, and would reduce coupling and improve cohesion. Given that this is not a webapp, we could have interacted the mongoDB through the frontend, but this likely would have been ill-advised, as it would make managing code in the future difficult and could result in many code smells such as shotgun surgery with such a high degree of interdependency between the various components of our project. The components used to achieve this architecture largely involve the frontend React UI that will make API calls to our backend, which will directly modify the events stored in the collection of the mongoDB and return those events to the front end. The front-end components do not need to be concerned with the implementation of the backend API, which also means our connection to the database is more secure as well.
+
 #### Architectural (High-level) Design
 
 ![Sequence Diagram](/TechEventsPage/Sequence_Diagram.png)
