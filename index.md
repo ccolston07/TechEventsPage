@@ -8,21 +8,82 @@ The following sections breakdown the four major stages of our project, planning,
 
 ### Planning Stage
 
+#### Introdcution
+
 At the beginning of this project we struggled to come up with an idea for something we could implement that would be both interesting and difficult enough for the assignment. We initialy wanted to created either an iOS exclusive app or some form of video game through Unity. These ideas came from prior experiences some group members had with projects but ultimately we did not have enough commitment into either of these ideas and we did not pursue them. Our final idea we came up with and eventually agreed to work on was the Georgia Tech campus event manager. Each of us agreed that a common frustration we all experienced was in regards to the email spam Tech students recieve and determined that a large majority of these could be eliminated through an email external event management system. From there we agreed on various features we wanted the app to implement, a rough timeline of when items would need to be completed, our target platform, and our methodological approach to this project. We chose the Waterfall methodology for this project as we felt this best suited both our timescale and the smaller project size for this idea.
+
+#### Project Lifecycle
+
+As mentioned in the introduction, we decided on the waterfall methodology for our approach to this project. This was chosen for a variety of reasons, the first of which being that we did not foresee any changes hapening to the specifications, requirements, or features we had created for this project. This suited the waterfall methodolgy well as this lifecycle does not handle changing requirements well. Addiitonally, we chose waterfall for the sequential nature of the lifecycle. This was iimportant because many of the features of our app depended on previous features being completed prior and the waterfall methodology requires completing stages before moving onto the next stage. The final reason we chose this lifecycle was due to the time constraints and overall size of this project. We did not have the amount of time needed to run through mutltiple agile iterations like we had done in Project 1 and we limited the number of features we added to ensure that we could complete the core aspect of the ap on time.
+
+#### Team Communication
+
+Team communication was maintianed through two main avenues for this project, GroupMe group chat and weekly BlueJeans meetings. Our group chat was used primarily to plan our meetings and to keep the team updated on completed tasks or the progress of tasks. As for the meetings, we aimed to have one meeting minimum each week with most weeks having two meetings. The goal behind the meetings was to have weekly progress reports on the project and tasks that were assigned in previous meetings. Additionally, we would lay out new tasks for te week and assign them accordingly to ensure that the project was kept on track. Overall, our team communication was very structured and consistent and this enabled our team to maintain a tight schedule while completing the features we laid out for ourselves.
+
+#### Risk Management
+
+{risk table}
 
 ### Requirements Stage
 
+#### Introduction
+
 For our group this stage was fairly short and straightforward, however the importance of this stage cannot be undervalued. During this stage we ensured that our idea and plan that we had created in the previous stage, met all of the requirements laid out to us for the assigment. We felt that the newness to the group of the technologies that we agreed to use, added to the difficulty of our idea in regards to the assignment description. Additionally, we felt that the relevancy of solving an issue many students at Tech experience matched well with the assignment description. Overall we felt that after a short analysis of our idea and plan, we could proceed to the design stage of the project as we covered all needed aspects of the assignment.
+
+#### Software Interfaces
+
+{List of Software Interfaces and descriptions}
+
+### User Interfaces
+
+The user will interact with the system through their mobile device (either iOS or Android device) and the GUI of the project application. The application GUI will offer various methods of interaction including text fields, buttons, and an interactive calendar. These combined aspects will create the interface through which the user can interact directly with the system application.
+
+#### Project Features/Functions
+
+1. Login ability 
+  - The user will be able to login using the standard Google account sign-on
+2. View Calendar 
+  - The user will be able to view a calendar of events that are occurring around campus
+3. Create Event
+  - Event organizers will be able to add new events with infromation such as times, date, and description
 
 ### Design Stage
 
+#### Introduction
+
 During this stage of the assignment we began our implementation of our idea and the plan we had created in previous stages. We had agreed to use the waterfall methodology as such, we held 1-2 weekly meetings where we would divide up work to be completed before our next meeting. This allowed us to continually build the app while maintaing our rough schedule we had created in the planning stage and also allowed us to maintain the waterfall approach of completing work before moving onto new items. Alongside this process we also determined that it would be better to divide the frontend and backend work from one another and connect them in the end. This allowed us to maintain our schedule with the time constraints we were experiencing and develop the two sides of the application concurrently. Overall, this ended up working well for our group and allowed us to stay on schedule and coplete work that was independent of other areas. The only issue this caused was some difficulties in connecting the frontend and backend back together and this would be an aspect to consider in future assignments.
+
+#### System Environment
+
+#### Architectural (High-level) Design
+
+{Architecture or High-level component Diagram}
+
+#### Low-level Desing
+
+{Sequence Diagram / Low-level Component Diagram}
+
+#### User Interface Design
+
+{Figma Prototype Link + Screenshots w/ descriptions}
 
 ### Test Stage
 
+#### Introduction
+
 This final stage of development was done concurrently with the Design stage so that we were able to test alongside development of new features to ensure that new additions work entirely as intended. Throughout the development of the application, various testing technologies were used for both the frontend and backend. For the frontend, Expo and ExpoGO were predominantly used to test the user interface. These tools wer chosen as they allowed us to test the application during development on our own iOS and Android devices. As for the backend, Postman and Jest were the primary technologies used for testing. Postman allowed us to test our API endpoints and to ensure that our calls to our database worked as intended. Jest allowed us to test our JavaScript code to further ensure the functionalities we were creating worked as intended. The concurrent style of testing worked well for our group and this project, allowing us to continually test new features as they were added and would be a consideration to use again in future projects.
 
+#### Quality Control
+
+#### Test Strategy
+
+#### Test Cases
+
+{List of test cases}
+
 ## Technologies
+
+The following lists provide a breakdown of the major technologies used in each area of the project. 
 
 **Frontend:**
   - _React Native_
