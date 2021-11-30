@@ -55,6 +55,8 @@ During this stage of the assignment we began our implementation of our idea and 
 
 #### System Environment
 
+The system must be a mobile device with a steady internet connection and the ability to run React native compiled code. For Android devices, Expo Go allows easy running on the application from a QR Code.
+
 #### Architectural (High-level) Design
 
 ![Component Diagram](/TechEventsPage/Component_Diagram.png)
@@ -65,6 +67,9 @@ During this stage of the assignment we began our implementation of our idea and 
 
 #### User Interface Design
 
+Click [here](https://www.figma.com/file/1N8p8or2d21CXDu3Tk48UX/EventManager?node-id=0%3A1) for link to Figma Prototype used to plan and desing the User Interface.
+
+![Figma Prototype](/TechEventsPage/Figma.png)
 {Figma Prototype Link + Screenshots w/ descriptions}
 
 ### Test Stage
@@ -75,7 +80,11 @@ This final stage of development was done concurrently with the Design stage so t
 
 #### Quality Control
 
+{Description}
+
 #### Test Strategy
+
+{Description}
 
 #### Test Cases
 
@@ -109,3 +118,7 @@ The following list reviews each team members contribution area for this project 
     - Maksim Tochilkin
 3. Presentation/Project Report
     - Levi Colston
+
+## Project Images
+
+{App Images and descriptions}
