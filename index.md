@@ -22,6 +22,8 @@ Team communication was maintianed through two main avenues for this project, Gro
 
 #### Risk Management
 
+The following table provides a breakdown of risks we foresaw for this project, their severity, likelihood, and potential solution for avoidance.
+
 ![Risk Table](/TechEventsPage/Risk_Table.jpeg)
 
 ### Requirements Stage
@@ -100,6 +102,8 @@ We maintained the quality of our testing through a recursive method in which new
 The main technologies used for testing involved Jest for testing backend code, Postman for testing API calls and endpoints, and Expo (Expo Go) for manual testing of the user interface and UI functionality. Our main testing strategy for this project was to continually test upon the completion of new features and functionalities. However due to the variety of testing that needed to be done there was no laid out plan for how to test an item. Group communication channels were utilized to disucss testing methods for each addition to the project which enabled every group memeber to test the new code in an appropriate manner. Each group memebr was responsible for testing new additions to the project according to the agreed upon testing method to ensure that the highest amount of bugs were captured through our testing strategy. 
 
 #### Test Cases
+
+The following table outlines our test cases with information regarding action/input, expected and actual output, and any comments we had on the test case.
 
 ![Test Cases 1-9](/TechEventsPage/Test_Cases1.png)
 
