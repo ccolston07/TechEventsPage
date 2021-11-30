@@ -32,7 +32,14 @@ For our group this stage was fairly short and straightforward, however the impor
 
 #### Software Interfaces
 
-{List of Software Interfaces and descriptions}
+1. Android: 
+   Mobile Operating System based on the Linux Kernel.
+2. IOS
+   Mobile Operating System developed by the Apple Inc.
+3. expo-cli
+   Command line application that interface between developer and Expo
+4. Cloud SDK
+   Command line Tool from GCP to communicate between cloud and developer
 
 ### User Interfaces
 
@@ -70,7 +77,6 @@ The system must be a mobile device with a steady internet connection and the abi
 Click [here](https://www.figma.com/file/1N8p8or2d21CXDu3Tk48UX/EventManager?node-id=0%3A1) for link to Figma Prototype used to plan and desing the User Interface.
 
 ![Figma Prototype](/TechEventsPage/Figma.png)
-{Figma Prototype Link + Screenshots w/ descriptions}
 
 ### Test Stage
 
