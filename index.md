@@ -22,7 +22,7 @@ Team communication was maintianed through two main avenues for this project, Gro
 
 #### Risk Management
 
-{risk table}
+![Risk Table](/TechEventsPage/Risk_Table.jpeg)
 
 ### Requirements Stage
 
