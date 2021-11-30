@@ -32,13 +32,20 @@ For our group this stage was fairly short and straightforward, however the impor
 
 #### Software Interfaces
 
-1. Android: 
+1. _Android_
+ 
    Mobile Operating System based on the Linux Kernel.
-2. IOS
+   
+2. _IOS_
+
    Mobile Operating System developed by the Apple Inc.
-3. expo-cli
+   
+3. _expo-cli_
+
    Command line application that interface between developer and Expo
-4. Cloud SDK
+   
+4. _Cloud SDK_
+   
    Command line Tool from GCP to communicate between cloud and developer
 
 ### User Interfaces
@@ -127,4 +134,20 @@ The following list reviews each team members contribution area for this project 
 
 ## Project Images
 
-{App Images and descriptions}
+The following images cover the main pages of our application and the functionality of the pages:
+
+![App Sign-on](/TechEventsPage/App-Sign_In.jpeg)
+
+Here you can see the login system for our application which also provides the ability to use the standard Google Sign On system.
+
+![App Creat Event](/TechEventsPage/App-Create_Event.jpeg)
+
+Here you can see the fields we determined were important for creating an event. Each of these fields are saved with the event on our database.
+
+![App Calendar 1](/TechEventsPage/App-Calendar.jpeg)
+
+This image of the calendar demonstrates that selecting a day on the calendar shows an event that occurs on the selected day.
+
+![App Calendar 2](/TechEventsPage/App-Calendar2.jpeg)
+
+This final image of the calendar demonstrates that any given day may have multipple events occuring as well.
